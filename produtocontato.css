@@ -55,7 +55,7 @@ form {
 	margin: 40px 0;
 }
 
-form label, form legend, p, option {
+form label, form legend, p, select, option {
 	display:block;
 	font-size: 20px;
 	margin: 0 0 10px;
