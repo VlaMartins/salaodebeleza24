@@ -19,11 +19,11 @@
 
 .produtos li:hover {
 	border-color: #850255;
-	background-color: rgb(233, 245, 211);
+	background-color: rgb(237, 201, 233);
 }
 
 .produtos li:active {
-	border-color: #3d022b;	
+	border-color: #500238;	
 }
 
 .produtos li:hover h2 {
