@@ -55,15 +55,12 @@ form {
 	margin: 40px 0;
 }
 
-form label, form legend {
+form label, form legend, p {
 	display:block;
 	font-size: 20px;
 	margin: 0 0 10px;
 }
 
-.radio{
-    line-height: 1.5;
-}
 
 .input-padrao {
 	display: block;
