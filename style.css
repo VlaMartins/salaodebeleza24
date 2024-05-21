@@ -7,7 +7,7 @@
 }
 
 header {
-	background: #f6d2f0;
+	background: #3a0131;
 	padding: 20px 0;
 }
 
@@ -31,14 +31,14 @@ nav li {
 
 nav a {
 	/*text-transform: uppercase;*/
-	color: #000000;
+	color: #f9f7f7;
 	font-weight: bold;
 	font-size: 22px;
 	text-decoration: none;
 }
 
 nav a:hover {
-	color: rgb(242, 248, 231);
+	color: rgb(244, 162, 217);
 	text-decoration: underline;
 	font-size: 20px;
 }
