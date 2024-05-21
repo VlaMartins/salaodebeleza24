@@ -39,7 +39,7 @@ nav a {
 }
 
 nav a:hover {
-	color: rgb(244, 162, 217);
+	color: pink;
 	text-decoration: underline;
 	font-size: 20px;
 }
@@ -51,7 +51,7 @@ body {
 }
 
 .principal {
-    background: rgb(243, 145, 238);
+    background: pink;
     padding: 30px;
 	color: #3a0131;
 }
@@ -63,6 +63,7 @@ body {
 .titulo-principal {
     text-align: center;
     background-color: #3a0131;
+	color: pink;
     height: 100px;
     padding-top: 50px;
     font-size: 36px;
