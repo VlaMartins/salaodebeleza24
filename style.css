@@ -99,6 +99,9 @@ em strong {
 
 .itens {
     text-align: left;
+	font-size: 13px;
+	font-family: "Raleway", sans-serif;
+	line-height: 1.5;
 }
 
 .beneficios {
