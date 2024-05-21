@@ -104,9 +104,17 @@ em strong {
 	line-height: 1.5;
 }
 
+.itens:first-child {
+	font-weight: bold;
+}
+
+.itens:before {
+	content: "🟊";
+}
+
 .beneficios {
     background: rgb(243, 145, 238);
-    padding: 20px;
+    padding: 15px;
 }
 
 .conteudo-beneficios {
@@ -118,18 +126,6 @@ em strong {
 	width: 40%;
 	display: inline-block;
 	vertical-align: top;
-}
-
-.itens {
-	line-height: 1.5;
-}
-
-.itens:first-child {
-	font-weight: bold;
-}
-
-.itens:before {
-	content: "🟊";
 }
 
 .imagembeneficios {
