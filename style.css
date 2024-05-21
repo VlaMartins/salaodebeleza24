@@ -47,8 +47,8 @@ nav a:hover {
 /*CORPO */
 body {
     color: black;
-    font-family: "Nunito Sans", sans-serif;
 	font-size: 13px;
+	font-family: "Raleway", sans-serif;
 }
 
 .principal {
