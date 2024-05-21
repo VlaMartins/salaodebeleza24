@@ -171,7 +171,9 @@ nav ul {
     margin: 2em auto;
 }
 
-
+iframe{
+	margin: 20px;
+}
 
 /* footer rodape */
 footer {
