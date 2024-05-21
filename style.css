@@ -51,8 +51,9 @@ body {
 }
 
 .principal {
-    background: rgb(243, 145, 238);
+    background: #3a0131;
     padding: 30px;
+	color: pink;
 }
 
 .principal strong {
