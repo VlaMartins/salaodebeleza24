@@ -84,6 +84,10 @@ p {
     font-size: 20px
 }
 
+#banner {
+    width: 100%;
+}
+
 em strong {
     color: rgba(164, 4, 90, 0.994);
 }
@@ -113,6 +117,12 @@ nav ul {
 
 /*MAPA E VIDEO */
 
+
+.mapa {
+    padding: 3em 0;
+    background: linear-gradient(#FEFEFE, #888888);
+} 
+
 .mapa-conteudo {
     width: 940px;
     margin: 0 auto;
@@ -130,9 +140,6 @@ nav ul {
 
 
 
-
-
->>>>>>> a8d7e3831093892457325b8b41ae4cde3de6a60d
 /* footer rodape */
 footer {
 	text-align: center;
@@ -152,3 +159,14 @@ footer {
 
 }
 
+
+
+
+<<<<<<< HEAD
+
+=======
+/*MAPA E VIDEO */
+
+>>>>>>> a8d7e3831093892457325b8b41ae4cde3de6a60d
+
+<<<<<<< HEAD
