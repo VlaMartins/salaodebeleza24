@@ -78,10 +78,11 @@ h2 {
 p {
     text-align: center;
     line-height: 1.5;
+	font-size: 18px;
 }
 
 #missao {
-    font-size: 20px
+    font-size: 20px;
 }
 
 #banner {
