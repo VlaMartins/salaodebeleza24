@@ -59,7 +59,7 @@ body {
     font-weight: bold;
 }
 
-h1 {
+.titulo-principal {
     text-align: center;
     background-color: rgb(36, 37, 37);
     height: 100px;
