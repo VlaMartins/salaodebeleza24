@@ -2,6 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
 
+/*MENU*/
 .logopreto{
     width: 25%;
 }
@@ -43,12 +44,87 @@ nav a:hover {
 	font-size: 20px;
 }
 
+/*CORPO */
+body {
+    color: rgb(242, 236, 236);
+    font-family: "Nunito Sans", sans-serif;
+}
 
+<<<<<<< HEAD
+#banner {
+    width: 100%;
+}
+=======
 /*MAPA E VIDEO */
 .mapa {
     padding: 3em 0;
     background: linear-gradient(#FEFEFE, #888888);
 }
+>>>>>>> a8d7e3831093892457325b8b41ae4cde3de6a60d
+
+<<<<<<< HEAD
+.principal {
+    background: black;
+    padding: 30px;
+}
+
+.principal strong {
+    font-weight: bold;
+}
+
+h1 {
+    text-align: center;
+    background-color: rgb(36, 37, 37);
+    height: 100px;
+    padding-top: 50px;
+    font-size: 36px;
+    margin: 20px;
+    font-weight: bold;
+}
+
+h2 {
+    text-align: left;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+p {
+    text-align: center;
+    line-height: 1.5;
+}
+
+#missao {
+    font-size: 20px
+}
+
+em strong {
+    color: rgba(164, 4, 90, 0.994);
+}
+
+.itens {
+    font-style: italic;
+    text-align: left;
+}
+
+.beneficios {
+    background: rgb(243, 145, 238);
+    padding: 20px;
+}
+
+.imagembeneficios {
+    width: 30%;
+}
+
+nav ul {
+    display: flex;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+    margin-top: 100px;
+    font-size: 18px;
+}
+
+
 
 .mapa-conteudo {
     width: 940px;
@@ -69,6 +145,7 @@ nav a:hover {
 
 
 
+>>>>>>> a8d7e3831093892457325b8b41ae4cde3de6a60d
 /* footer rodape */
 footer {
 	text-align: center;
