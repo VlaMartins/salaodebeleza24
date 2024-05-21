@@ -51,9 +51,9 @@ body {
 }
 
 .principal {
-    background: #3a0131;
+    background: rgb(243, 145, 238);
     padding: 30px;
-	color: pink;
+	color: #3a0131;
 }
 
 .principal strong {
@@ -62,7 +62,7 @@ body {
 
 .titulo-principal {
     text-align: center;
-    background-color: rgb(36, 37, 37);
+    background-color: #3a0131;
     height: 100px;
     padding-top: 50px;
     font-size: 36px;
@@ -79,7 +79,7 @@ h2 {
 p {
     text-align: center;
     line-height: 1.5;
-	font-size: 18px;
+	font-size: ;
 }
 
 #missao {
